@@ -19,7 +19,8 @@ from usuarios.views import home
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('usuarios.urls')),
-    path('pi_gp3_wos/', home),
     path('login/', include('django.contrib.auth.urls'), name='login'),
+    path('', include('usuarios.urls')),
+    path('pesquisas/', include('pesquisas.urls')),
+    path('pi_gp3_wos/', home),
 ]
