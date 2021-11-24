@@ -54,3 +54,13 @@ def consultarPesquisa(request):
         'pesquisas': pesquisas
     }
     return render(request, 'consultarPesquisa.html', context)
+
+
+def deletarPesquisa(request, id):
+    pesquisa = Pesquisa.objects.get(id=id)
+    pesquisa.delete()
+    pesquisas = Pesquisa.objects.all()
+    context = {
+        'pesquisas': pesquisas
+    }
+    return render(request, 'consultarPesquisa.html', context)
