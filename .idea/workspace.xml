@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cc0c337-5279-44b0-83b5-d181945cf49e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/imagens/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/imagens/univesp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pi_gp3_wos/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pi_gp3_wos/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21O69RmOqURVJ9stOgtdxSuaY26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\pi_gp3_wos\static" />
+      <recent name="C:\Python\pi_gp3_wos\pi_gp3_wos\templates" />
+      <recent name="C:\Python\pi_gp3_wos\usuarios\templates" />
+      <recent name="C:\Python\pi_gp3_wos\static\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc0c337-5279-44b0-83b5-d181945cf49e" name="Changes" comment="" />
+      <created>1637799638255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637799638255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
